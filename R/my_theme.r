@@ -3,7 +3,7 @@
 #' 
 
 
-my_theme <- function(){
+my_theme() <- function(){
     ggplot2::theme_bw() + 
     ggplot2::theme(
         text = ggplot2::element_text(family = "CenturySch"),
