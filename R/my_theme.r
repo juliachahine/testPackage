@@ -1,6 +1,6 @@
 #' Personalized ggplot2 Theme
 #' 
-#' 
+#' @export
 
 
 my_theme <- function() {
